@@ -13,16 +13,16 @@ global.APIKeys = {
 	'https://zenzapi.xyz': '805a6c3fa9', //Apikey Premium
 }
 global.Prefix = 'Multi'
-global.meki = '6285878313791'
-global.ownerNumber = '6285878313791'
+global.meki = '6285860486479'
+global.ownerNumber = '6285860486479'
 global.botname = 'Ｃｈｉｔａｎｄａ - ＭＤ' 
-global.ownername = '𝙸 𝙰𝚖 𝙺𝚒𝚉𝚊𝚔𝚒𝚇𝙳'
-global.owner = ['6285878313791'] 
-global.pemilik = ['6285878313791'] 
-global.premium = ['6285878313791'] 
+global.ownername = 'Syamsul Fajri'
+global.owner = ['6285860486479'] 
+global.pemilik = ['6285860486479'] 
+global.premium = ['6285860486479'] 
 global.pengguna = '𝙺𝙸𝚉𝙰𝙺𝙸𝚇𝙳'
 global.botnma = 'Ｃｈｉｔａｎｄａ - ＭＤ' 
-global.ownernma = '𝙸 𝙰𝚖 𝙺𝚒𝚉𝚊𝚔𝚒𝚇𝙳'
+global.ownernma = 'Syamsul fajri'
 global.packname = '✨ 𝙺𝙸𝚉𝙰𝙺𝙸𝚇𝙳 ✨' 
 global.author = 'Ｃｈｉｔａｎｄａ - ＭＤ' 
 global.sessionName = 'kizakixd'
